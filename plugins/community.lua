@@ -6,4 +6,21 @@ return {
 
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.colorscheme.nord-nvim" },
+  { import = "astrocommunity.colorscheme.tokyonight-nvim" },
+  { import = "astrocommunity.git.neogit" },
+  { import = "astrocommunity.git.blame-nvim"},
+  { import = "astrocommunity.git.diffview-nvim"},
+  { import = "astrocommunity.editing-support.todo-comments-nvim"},
+  { import = "astrocommunity.pack.go"},
+  { import = "astrocommunity.pack.proto"},
+  { import = "astrocommunity.pack.yaml"},
+  { import = "astrocommunity.pack.toml"},
+  { import = "astrocommunity.pack.docker"},
+  { import = "astrocommunity.pack.json"},
+  { import = "astrocommunity.scrolling.satellite-nvim" },
+  { import = "astrocommunity.color.transparent-nvim" },
+  { import = "astrocommunity.colorscheme.neosolarized-nvim" },
+  { import = "astrocommunity.indent.mini-indentscope" },
 }
+
